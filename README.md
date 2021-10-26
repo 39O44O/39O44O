@@ -1,7 +1,7 @@
 ### Hi there 👋　　
 
 ## I'm a Frontend Developer　
-- 💻　I'm currently working at Tokyo　🗼
+- 💻　I'm currently working in Tokyo　🗼
 - 🌱　I’m currently learning everything　😋
 - 🖼　I'm interesting in design and user experience
 - 🥅　I want to become UX engineer, builds and designs new products 
