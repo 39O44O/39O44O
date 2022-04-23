@@ -8,6 +8,5 @@
 - 💙　Fun fact: training🏋, playing game🎮　and coffee☕
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nousbear&theme=vue-dark&show_icons=true)](https://github.com/coolbruin/github-readme-stats)
-![My GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nousbear&theme=solarized_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nousbear&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/nousbear/github-readme-stats)
 
