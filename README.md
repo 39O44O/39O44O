@@ -7,6 +7,6 @@
 - 🥅　I want to become UX engineer, builds and designs new products 
 - 💙　Fun fact: training🏋, playing game🎮　and coffee☕
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nousbear&theme=vue-dark&show_icons=true)](https://github.com/coolbruin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nousbear&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/nousbear/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kumabiko&theme=vue-dark&show_icons=true)](https://github.com/kumabiko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumabiko&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kumabiko/github-readme-stats)
 
